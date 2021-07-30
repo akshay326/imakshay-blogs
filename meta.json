@@ -1,0 +1,152 @@
+{
+  "0": {
+    "title": "Creating an ML based Python API hosted on Heroku",
+    "date": "15-April-2018",
+    "tags": "heroku,flask,sklearn,API",
+    "description": "Building an AR Marker Detection program using ArUco Library"
+  },
+  "1": {
+    "title": "Getting Started with GSoC",
+    "date": "26-February-2018",
+    "tags": "beginner,gsoc,github",
+    "description": "What's GSoC? How do I apply for it?"
+  },
+  "2": {
+    "title": "GSoC first few weeks",
+    "date": "09-June-2018",
+    "tags": "visp,gsoc,java,cmake",
+    "description": "Starting GSoC, hello ViSP, creating android platform and java module"
+  },
+  "3": {
+    "title": "GSoC Week 3",
+    "date": "09-June-2018",
+    "tags": "visp,gsoc,java,cmake",
+    "description": "Adding java wrapping support to visp_core, visp_imgproc and visp_io modules"
+  },
+  "4": {
+    "title": "Introduction to ArUco",
+    "date": "31-January-2018",
+    "tags": "beginner,opencv,aruco,ar",
+    "description": "Building an AR Marker Detection program using ArUco Library"
+  },
+  "5": {
+    "title": "Introductory workshop on Game Theory @ IIT Varanasi",
+    "date": "09-March-2020",
+    "tags": "game-theory,workshop",
+    "description": "Introductory workshop on Game Theory @ IIT Varanasi"
+  },
+  "6": {
+    "title": "Setting up ArUco on your PC",
+    "date": "31-January-2018",
+    "tags": "cmake,opencv,aruco,installation",
+    "description": "Setting up opencv's ArUco library for marker detection"
+  },
+  "7": {
+    "title": "Music source separation using Deep learning in 5 minutes",
+    "date": "20-March-2020",
+    "description": "Researchers at Facebook developed a music extractor in their Demucs library. Learn how to use it in Google Colab",
+    "tags": "Demucs,Colab,music,DeepLearning"
+  },
+  "8": {
+    "title": "GSoC'20 begins - Differentiable Optimization problems",
+    "date": "13-June-2020",
+    "description": "Learn more about initial steps while developing DiffOpt.jl to differentiate some optimization problems",
+    "tags": "Julia,JuMP,Optimization,AutoDiff"
+  },
+  "9": {
+    "title": "GSoC'20 - Differentiating LPs and QPs",
+    "date": "29-June-2020",
+    "description": "Creating an optimizer layer, implementing MOI tests, and benchmarking with QPTH, CVXPY",
+    "tags": "MOI,CVXPY,Testing"
+  },
+  "10": {
+    "title": "GSoC'20 - Differentiating conic programs",
+    "date": "12-July-2020",
+    "description": "Solving and differentiating convex conic programs w.r.t. problem data, improving solver interface, and benchmarking with diffcp",
+    "tags": "MOI,conic,SOCP,diffcp"
+  },
+  "11": {
+    "title": "GSoC'20 - Support Semidefinite constraints",
+    "date": "27-July-2020",
+    "description": "Support SDP constraints, add windows appveyor build, make DiffOpt.jl robust",
+    "tags": "SDP,appveyor,conic"
+  },
+  "12": {
+    "title": "GSoC'20 - Create Dependencies and Documentation",
+    "date": "10-August-2020",
+    "description": "Move DiffOpt.jl code to other JuMP-dev packages; Begin documenting the code",
+    "tags": "docs,projections"
+  },
+  "13": {
+    "title": "A Startup A Day: 1. Squire",
+    "date": "12-August-2020",
+    "description": "My 60-day challenge to learn and grow",
+    "tags": "Squire,Startups"
+  },
+  "14": {
+    "title": "A Startup A Day: 2. Fintellix",
+    "date": "13-August-2020",
+    "description": "Providing business intelligence solutions to the banking and financial industry",
+    "tags": "Fintellix,Sequoia,Startups"
+  },
+  "15": {
+    "title": "A Startup A Day: 3. TellApart",
+    "date": "14-August-2020",
+    "description": "Predictive customer analytics for retailers and ecommerce",
+    "tags": "Greylock,Twitter,Startups"
+  },
+  "16": {
+    "title": "A Startup A Day: 4. Cuemath",
+    "date": "15-August-2020",
+    "description": "Innovative after-school study program for K8 students",
+    "tags": "Sequoia,EduTech,WFH"
+  },
+  "17": {
+    "title": "A Startup A Day: 5. Hotjar",
+    "date": "16-August-2020",
+    "description": "Analyze and improve your website's UX and conversion rate",
+    "tags": "Analytics,Remote,SaaS"
+  },
+  "18": {
+    "title": "A Startup A Day: 6. Celo",
+    "date": "17-August-2020",
+    "description": "Decentralized and open source financial tools on your mobile phones",
+    "tags": "Blockchain,Crypto,OpenSource"
+  },
+  "19": {
+    "title": "A Startup A Day: 7. Bounce",
+    "date": "18-August-2020",
+    "description": "India's first smart mobility solution",
+    "tags": "Mobility,Bengaluru,Innovation"
+  },
+  "20": {
+    "title": "A Startup A Day: 8. Vise",
+    "date": "19-August-2020",
+    "description": "AI-driven portfolio management platform for financial advisors",
+    "tags": "AI,Algorithmic,Trading,FinTech"
+  },
+  "21": {
+    "title": "A Startup A Day: 9. AI Fund",
+    "date": "20-August-2020",
+    "description": "Investment firm to build transformative AI companies",
+    "tags": "AI,AI-Fund,Andrew-Ng"
+  },
+  "22": {
+    "title": "A Startup A Day: 10. Rubrik",
+    "date": "21-August-2020",
+    "description": "Quick and secure cloud backup and recovery solution",
+    "tags": "Backups,Cloud,AI,Database-Mgmt"
+  },
+  "23": {
+    "title": "A Startup A Day: 11. 1mg",
+    "date": "22-August-2020",
+    "description": "ePharmacy network, eDiagnostics & health-care info platform",
+    "tags": "Pharma,ECommerce"
+  },
+  "24": {
+    "title": "GSoC'20 - A summer full of optimization and Julia",
+    "date": "23-August-2020",
+    "description": "Latest updates on the work done. Post-GSoC tasks",
+    "tags": "GSoC,Julia,JuMP,Optimization"
+  }
+}
